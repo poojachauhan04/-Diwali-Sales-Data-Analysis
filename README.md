@@ -16,15 +16,8 @@ The focus is on **Exploratory Data Analysis (EDA)** and **data cleaning** to unc
 
 ## 📂 Project Structure
 - `data/` → Diwali Sales dataset (CSV)  
-- `notebooks/` → Jupyter notebooks for EDA  
-- `src/` → Python scripts for cleaning and analysis  
+- `notebooks/` → VS Code for EDA  
+-  
 - `README.md` → Documentation  
 
 ---
-
-## ⚙️ Installation
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/yourusername/diwali-sales-analysis.git
-cd diwali-sales-analysis
-pip install -r requirements.txt
