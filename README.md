@@ -1,5 +1,5 @@
 # 🎉Diwali Sales Data Analysis (Python - VS Code)
-![Small Diwali Sales Data EDA Workflow Banner](https://copilot.microsoft.com/th/id/BCO.0105e806-7f58-4c95-9585-94121cd9aea9.png)
+![Uploading image.png…]()
 
 
 This project analyzes **Diwali sales data** using Python in VS Code.  
