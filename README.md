@@ -1,5 +1,5 @@
 # 🎉Diwali Sales Data Analysis (Python - VS Code)
-![Uploading image.png…]()
+<img width="616" height="171" alt="image" src="https://github.com/user-attachments/assets/5124379a-3e6a-4dd7-a24f-734327d9c5c2" />
 
 
 This project analyzes **Diwali sales data** using Python in VS Code.  
